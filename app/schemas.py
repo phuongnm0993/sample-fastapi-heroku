@@ -10,7 +10,7 @@ class SacomBotCreate(SacomBotBase):
     pass
 
 
-class Item(SacomBotBase):
+class SacomBot(SacomBotBase):
     id: int
     is_active: bool
 
